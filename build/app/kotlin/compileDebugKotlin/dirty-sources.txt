@@ -1,0 +1,1 @@
+C:\Users\KJS\Desktop\Project\SolChal\AlignAI\android\app\src\main\kotlin\com\example\align_ai\MainActivity.kt
